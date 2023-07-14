@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    /* border: 1px solid #000; */
+    width: 100%;
+    height: 1vh;
+    background-color: #f3f4f5;
+    /* overflow: hidden; */
+}
+.container-fluid{
+    margin: 0px;
+    padding: 0px;
+}
+.curved{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+.curved ul li{
+    margin: 0px;
+    padding: 0px;
+    font-weight: 700;
+}
+hr{
+    margin: 0px;
+    padding: 0px;
+    /* color:rgba(196, 196, 196, 0.884); */
+}
+p{
+    padding: 0px;
+    font-size: 15px;
+}
+h3{
+    background-color: #f3f4f5;
+    text-align: center;
+    margin-top: 30px;
+    padding: 25px;
+}
+h5{
+    text-align: center;
+}
+.card{
+    border-radius: 10px;
+    width: 280px;
+}
+#second_Content button{
+    margin-top: 20px;
+    border-radius: 40px;
+}
+
+#second_Content{
+    padding: 15px;
+    
+}
+#second_Content h1
+{
+    font-size: 30px;
+}
+#second_Content p{
+    text-decoration:wavy;
+}
+
+
+.third-section{
+    margin-top: 30px;
+    padding: 0px;
+    width: 100%;
+    /* background-color: #fff; */
+}
+.fourth-h3{
+    background-color: #fff;
+    margin: 0px;
+}
+#fourth-div{
+    width: 100%;
+}
+#padding{
+    padding: 15px;
+    width: 100%;
+}
+
+#padding button{
+    border-radius: 40px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+}
+#nine{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width: 1000px;
+    height: 250px;
+    background-color: #e7e6e6dc;
+}
+
+.checked { 
+    color: rgb(171, 173, 0);
+    font-size: 12px;
+}
+.unchecked{
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+}
+.star1{
+    width: 32px;
+    height: 32px;
+    font-size: 25px;;
+    border: 1px solid #000;
+    border-radius: 50%;
+    color: rgb(255, 255, 255);
+    background-color: chartreuse;
+
+    text-align: center;
+}
+footer{
+    width: 100%;
+    height: 369px;
+}
+.bottom{
+    position: relative;
+    top: 340px;
+    color: #fff;
+  }
